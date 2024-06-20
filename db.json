@@ -1,0 +1,19 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Sample Video",
+        "description": "This is a sample video.",
+        "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "videoId": 1,
+        "text": "Great video!",
+        "user_id": "john_doe"
+      }
+    ]
+  }
+  
